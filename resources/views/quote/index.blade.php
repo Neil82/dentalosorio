@@ -654,6 +654,14 @@
                         <h3 class="feature-title">Mantenimiento Incluido</h3>
                         <p>Sin panel administrativo. Incluye 1 cambio mensual gratuito (texto, párrafo o imagen). No acumulable. Cambios adicionales bajo cotización.</p>
                     </div>
+                    
+                    <div class="feature-card">
+                        <div class="feature-icon">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <h3 class="feature-title">Correos Corporativos</h3>
+                        <p>Hasta 5 cuentas de correo gratuitas con tu dominio (ej: dra.osorio@dentalosorio.com) usando Zoho Mail. Cada cuenta con 5GB de espacio. Profesionaliza tu comunicación.</p>
+                    </div>
                 </div>
 
                 <div class="pricing-table">
@@ -740,6 +748,10 @@
                     Sistema desarrollado en Laravel + MySQL con control en la nube
                 </p>
 
+                <h3 style="text-align: center; color: var(--primary-dark); margin-bottom: 30px; font-size: 1.8rem;">
+                    Características y Ventajas del Sistema
+                </h3>
+                
                 <div class="features-grid" style="margin-bottom: 50px;">
                     <div class="feature-card">
                         <div class="feature-icon">
@@ -790,6 +802,10 @@
                     </div>
                 </div>
 
+                <h3 style="text-align: center; color: var(--primary-dark); margin: 50px 0 30px; font-size: 1.8rem; border-top: 2px solid #e0e0e0; padding-top: 50px;">
+                    Módulos del Sistema
+                </h3>
+                
                 <div class="modules-grid">
                     <div class="module-card">
                         <span class="module-number">1</span>
@@ -915,6 +931,10 @@
                         <div class="pricing-row">
                             <span class="pricing-label">Tiempo de entrega</span>
                             <span class="pricing-value">1 mes y 15 días</span>
+                        </div>
+                        <div class="pricing-row">
+                            <span class="pricing-label">Ritmo de desarrollo</span>
+                            <span class="pricing-value">1-2 módulos por semana</span>
                         </div>
                         <div class="pricing-row">
                             <span class="pricing-label">Incluye capacitación</span>
